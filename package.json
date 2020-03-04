@@ -1,0 +1,25 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "21 days TDDs train",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+      "testRegex": "/test/.*.test.jsx?$"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoyanyuan/TDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caoyanyuan/TDD/issues"
+  },
+  "homepage": "https://github.com/caoyanyuan/TDD#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
